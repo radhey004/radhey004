@@ -71,30 +71,6 @@ const radhey = {
 
 <br/>
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/radhey004/MERN-Ecommerce-website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=radhey004&repo=MERN-Ecommerce-website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" />
-</a>
-
-<a href="https://github.com/radhey004/Real-Estate-Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=radhey004&repo=Real-Estate-Website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" />
-</a>
-
-<a href="https://github.com/radhey004/Movies-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=radhey004&repo=Movies-App&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" />
-</a>
-
-<a href="https://github.com/radhey004/my_portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=radhey004&repo=my_portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" />
-</a>
-
-</div>
-
-<br/>
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -109,13 +85,6 @@ const radhey = {
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=radhey004&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
-
-<br/>
 
 ## 📈 Contribution Graph
 
@@ -150,5 +119,5 @@ const radhey = {
   <br/>
   
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+  
 </div>
