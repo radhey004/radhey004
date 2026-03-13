@@ -17,27 +17,6 @@
 
 <br/>
 
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-```javascript
-const radhey = {
-    role: "Full Stack Developer",
-    location: "India 🇮🇳",
-    passions: ["Web Development", "UI/UX Design", "Problem Solving"],
-    currentFocus: "Building scalable MERN applications",
-    funFact: "I debug with console.log() and I'm proud of it! 😄",
-    askMeAbout: ["React", "Node.js", "MongoDB", "TypeScript"],
-    technologies: {
-        frontend: ["React", "TypeScript", "Tailwind CSS"],
-        backend: ["Node.js", "Express.js", "MongoDB", "MySQL", "PostgreSQL"],
-        tools: ["Git", "VS Code", "Postman", "Figma", "Docker", "Render"]
-    }
-};
-```
-
-<br clear="right"/>
 
 ## 📫 Connect With Me
 
@@ -100,20 +79,26 @@ const radhey = {
 
 ## 📈 Contribution Graph
 
+<table>
+<tr>
+<td width="70%">
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=radhey004&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=EC4899&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
 </p>
 
+</td>
+
+<td width="30%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="250"/>
+
+</td>
+</tr>
+</table>
+
 <br/>
 
-
-💻 Building things with code
----
-<p align="center">
-
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
-
-</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
