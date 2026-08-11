@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%F0%9F%92%BB;Building+Scalable+Applications+%E2%9C%A8;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+%F0%9F%92%BB;Building+Scalable+Applications+%E2%9C%A8;Agentic+AI+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -58,6 +58,20 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+🤖 AI / Agentic AI
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white"/> <img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge"/> <img src="https://img.shields.io/badge/Vector_DB-Qdrant-FF4F64?style=for-the-badge"/> <img src="https://img.shields.io/badge/Sentence_Transformers-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/OCR-Tesseract-4285F4?style=for-the-badge"/> <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-000000?style=for-the-badge"/>
+
+</p>
 
 </div>
 
